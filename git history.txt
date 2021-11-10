@@ -1,0 +1,38 @@
+  1  git init
+    2  git config --global user.email "birajdarcm@gmail.com"
+    3  git config --global user.name "birajdarcm@gmail.com"
+    4  git config --global user.name "biradjarcm"
+    5  git config --global user.name "birajdarcm"
+    6  git remote add chetanji https://github.com/birajdarcm/learning_git.git
+    7  git remote -v
+    8  git status
+    9  git add file\ 1.txt
+   10  git status
+   11  git commit -m "my first commit"
+   12  git status
+   13  git push chetanji master
+   14  git status
+   15  git add .
+   16  git status
+   17  git commit -m "git token"
+   18  git push chetanji master
+   19  git history
+   20  history
+   21  git add .
+   22  git status
+   23  git push chetanji master
+   24  git push chetanji master
+   25  git status
+   26  git push chetanji master
+   27  git status
+   28  git push chetanji master
+   29  git revert
+   30  git status
+   31  git push
+   32  git push chetanji master
+   33  git remote -v
+   34  git push chetanji master
+   35  git log
+   36  git stash
+   37  git push -u chetanji master
+   38  history
